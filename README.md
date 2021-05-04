@@ -1,7 +1,7 @@
 ### Hi there, This is Manoj Kalyanam - aka [KALLXCODE][website] 👋
 
 [![Website](https://img.shields.io/website?label=KALLXCODE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
-[![linkedin](https://img.shields.io/twitter/follow/KALLXCODE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://kallxcode.github.io/CV/)
+
 
 ## I'm a Student, Developer, and a Good Person😊!!
 
