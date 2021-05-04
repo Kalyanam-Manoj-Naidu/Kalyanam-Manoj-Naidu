@@ -1,4 +1,4 @@
-### Hi there, This is Manoj Kalyanam - aka [KALLXCODE][website] 👋
+### Hi there, This is MANOJ KALYANAM- aka [KALLXCODE][website] 👋
 
 [![Website](https://img.shields.io/website?label=KALLXCODE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 
