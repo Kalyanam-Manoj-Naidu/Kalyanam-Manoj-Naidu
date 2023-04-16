@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/KALLXCODE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=FF0000&width=440&height=45&lines=Data-Analyst+Machine Learning Anthusiast;Experienced+Front-End+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=FF0000&width=440&height=45&lines=Data-Analyst;Experienced+Front-End+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
 [![Website](https://img.shields.io/website?label=KALLXCODE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
