@@ -7,7 +7,7 @@
 <a href="https://github.com/KALLXCODE">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=FF3131&width=440&height=45&lines=Investment-Banking Analyst;Experienced+Front-End+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 [![Website](https://img.shields.io/website?label=KALLXCODE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 
 
