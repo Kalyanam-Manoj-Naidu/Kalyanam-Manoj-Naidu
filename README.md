@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KALLXCODE">
-    <img src="https://github.com/KALLXCODE/KALLXCODE/blob/main/Manoj%20Kalyanam%20(1).pn](https://github.com/KALLXCODE/KALLXCODE/blob/main/Manoj_Kalyanam__1_-removebg-preview.png" alt="Manoj Kalyanam" title="Hi there"/></a>
+    <img src="https://github.com/KALLXCODE/KALLXCODE/blob/main/Manoj_Kalyanam__1_-removebg-preview.png" alt="Manoj Kalyanam" title="Hi there"/></a>
 </p>
 
 <p align="center">
