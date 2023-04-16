@@ -8,7 +8,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=FF3131&width=440&height=45&lines=Investment-Banking Analyst;Experienced+Front-End+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-[![Website](https://img.shields.io/website?label=KALLXCODE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+
+<div align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKALLXCODE%2FKALLXCODE&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+  
+</div>
+
+<br>
+
+
 
 
 ## I'm a Student, Developer, and a Good Person😊!!
@@ -17,6 +25,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Trek and play flute.
+
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KALLXCODE&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 
 ### Connect with me:
