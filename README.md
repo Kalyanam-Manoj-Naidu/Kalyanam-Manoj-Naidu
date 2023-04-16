@@ -1,4 +1,7 @@
-### Hi there, This is MANOJ KALYANAM- aka [KALLXCODE][website] 👋
+<p align="center">
+  <a href="https://github.com/Manoj Kalyanam">
+    <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Manoj kalyanam" title="Hi there"/></a>
+</p>
 
 [![Website](https://img.shields.io/website?label=KALLXCODE&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 
