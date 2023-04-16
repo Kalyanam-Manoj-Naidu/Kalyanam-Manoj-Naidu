@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KALLXCODE">
-    <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Manoj Kalyanam" title="Hi there"/></a>
+    <img src="https://github.com/KALLXCODE/KALLXCODE/blob/main/image.png" alt="Manoj Kalyanam" title="Hi there"/></a>
 </p>
 
 <p align="center">
