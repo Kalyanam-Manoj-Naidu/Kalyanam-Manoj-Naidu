@@ -19,12 +19,15 @@
 
 
 
-## I'm a Student, Developer, and a Good Person😊!!
+## Hi there! I'm a prefinal year student passionate about data analytics, machine learning, artificial intelligence, and computer science.👨🏽‍🎓!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 Data analytics enthusiast skilled in Python, Java, SQL, and Git.
+- 👯 Constantly learning and experimenting with new data analytics and machine learning technologies.
+- 📋 Proficient in data visualization and exploratory data analysis
+- 🤖 Experienced in supervised and unsupervised machine learning techniques
+- 👨🏽‍💻 Knowledgeable in deep learning techniques for computer vision and natural language processing
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Trek and play flute.
+- ⚡ Fun fact: I love to Trek🧗🏽‍♀️ and play flute.
 
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KALLXCODE&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
